@@ -1,0 +1,21 @@
+
+
+.blog-list-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+    height: 78vh;
+}
+.heading{
+    margin-left: 50px;
+}
+
+.item {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    font-size: 20px;
+    list-style-type: none;
+}
